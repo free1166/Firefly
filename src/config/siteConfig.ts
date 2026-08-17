@@ -9,10 +9,10 @@ export const siteConfig: SiteConfig = {
 	title: "Luoqixi",
 
 	// 站点副标题
-	subtitle: "Come join us!",
+	subtitle: "Welcome it!",
 
 	// 站点 URL
-	site_url: "https://394000.xyz",
+	site_url: "https://luoqixi.lhua57115.workers.dev/",
 
 	// 站点描述
 	description:
@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 220,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
