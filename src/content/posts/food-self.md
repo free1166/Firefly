@@ -1,10 +1,11 @@
 ---
-title: 这是本人的第一篇文章（之后更新可能会新开一个收纳文档来写自己的小说了）
-pulished: 2026-8-17
-description: 记录我的小美食哦~
-image: .images/3.jpg
-tags: [前端]
-category: 前端开发
-draft: false
-pinned: true
+title: 第一个文章
+published: 2026-08-18
+updated: 2026-08-18
+description: "了解 Firefly 中的 Markdown 功能"
+image: ""
+tags: [演示, 示例, Markdown, Firefly]
+category: "文章示例"
+slug: markdown-extended
 ---
+这将会是一次尝试（之后更新可能会新开一个收纳文档来写自己的小说了）
